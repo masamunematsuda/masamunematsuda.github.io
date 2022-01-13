@@ -1,3 +1,1 @@
-# Masamune MATSUDA
-# (松田真宗)
----
+## 自己紹介

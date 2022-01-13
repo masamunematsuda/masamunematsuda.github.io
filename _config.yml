@@ -1,6 +1,5 @@
-title: Masamune MATSUDA
-logo: /logo.png
-description: MATSUDA's Homepage
-show_downloads: true
+title: 松田 真宗
+description: 京都大学理学研究科 物理第二教室 宇宙線研究室
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day

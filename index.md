@@ -1,6 +1,6 @@
 ---
 layout: default
-title: トップページ
+title: Masamune MATSUDA's page
 ---
 
 # プロフィール

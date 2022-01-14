@@ -11,4 +11,4 @@ title: Masamune MATSUDA's page
 |生年月日|1996年4月10日|
 |所属|京都大学理学研究科|
 |Emailアドレス|matsuda.masamune.38a@st.kyoto-u.ac.jp|
-|ORCiD|[0000-0002-7393-2234](https://orcid.org/0000-0002-7393-2234)|
+|ORCiD|[![ORCiD icon](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)0000-0002-7393-2234](https://orcid.org/0000-0002-7393-2234)|

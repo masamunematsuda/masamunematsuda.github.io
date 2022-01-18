@@ -1,9 +1,9 @@
 title: Masamune MATSUDA's page
-author: Masamune Matsuda
-email: matsuda.masamune.38a@st.kyoto-u.ac.jp
+author:
+  name: Masamune Matsuda
+  email: "matsuda.masamune.38a[at]st.kyoto-u.ac.jp  ※[at]を@に変換してください"
 description: いかがお過ごしでしょうか
-show_downloads: false
-google_analytics: 299439414
+google_analytics: UA-217177525-1
 
 minima:
   social_links:
@@ -18,8 +18,11 @@ header_pages:
 #theme: jekyll-theme-midnight
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-minimal
-theme: minima
+
+remote_theme: jekyll/minima
+#theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme

@@ -1,13 +1,26 @@
 title: Masamune MATSUDA's page
+author:
+  name: Masamune Matsuda
+  email: matsuda.masamune.38a@st.kyoto-u.ac.jp
 description: いかがお過ごしでしょうか
 show_downloads: false
 google_analytics: 299439414
-#remote_theme: pages-themes/leap-day@v0.2.0
-#plugins:
-#- jekyll-remote-theme
+
+minima:
+  social_links:
+    github: masamunematsuda
+
+header_pages:
+  - about.md
+  - gallery.md
+
 #theme: jekyll-theme-leap-day
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-midnight
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-minimal
 theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
